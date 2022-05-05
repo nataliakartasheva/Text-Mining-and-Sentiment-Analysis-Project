@@ -1,4 +1,4 @@
-# Text-Mining-and-Sentiment-Analysis-Project
+##  Text-Mining-and-Sentiment-Analysis-Project
 # "How do you feel, my dear (P8)" - Emotion detection
 Recently, emotion detection in text has received attention in the literature on sentiment analysis. Detecting emotions is important for studying human communication in different domains, including fictional scripts for TV series and movies. The project aims at studying fictional scripts of several movies and TV series under the emotional profile. In particular, the task of the project is threefold:
 1. Create a model to predict emotions in text using available dataset WASSA-2017 as training set;
